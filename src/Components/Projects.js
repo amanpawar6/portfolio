@@ -14,33 +14,31 @@ import RemoveIcon from "@material-ui/icons/Remove";
 
 const Projects = () => {
   const items = [
-    // {
-    //   date: "August 2022 - March 2023",
-    //   cardTitle: "BLAZING CARDS",
-    //   cardDetailedText: `This product involves purchasing, selling, and auctioning products. It serves largely as a marketplace where different retailers can sign up and list their products for sale. Additionally,
-    //   vendors could stream and host live auctions for their products. The merchant portal includes a dashboard as well as additional elements such as a ledger and a payout. Additionally, the admin
-    //   could control the entire application via its portal.`,
-    //   technologies: ["Typescript", "Javascript", "NodeJs", "ExpressJs", "Socket.io", "MySQL", "typeORM", "MongoDB", "Docker", "AWS", "Jenkins"],
-    //   Responsibilities: [
-    //     "Socket.io Chat app",
-    //     "Requirements Analysis",
-    //     "Coding",
-    //     "Debugging",
-    //     "Application Maintenance",
-    //     "Bug Fixing",
-    //     "AWS implementation (S3, lambda, SES, SNS, SQS)",
-    //     "Code/PR Review",
-    //     "Code deploy on server"
-    //   ].map(function (text) {
-    //     return <li>{text}</li>;
-    //   }),
-    //   links: [
-    //     {
-    //       url: "https://dev.blazing-card-store-dev.kellton.net",
-    //       text: "View Web Application",
-    //     },
-    //   ],
-    // },
+    {
+      date: "April 2023 - Present",
+      cardTitle: "Utec by UltraTech",
+      cardDetailedText: `This project is for Home Building Solutions. We developed a hyper-local digital platform offering comprehensive home-building solutions. Enabled user connections with industry experts and vendors, and provided knowledge, information, and financial tools. Implemented regional access to enhance partner and customer support. Achieved over 1.3 million users.`,
+      technologies: ["Javascript", "NodeJs", "ExpressJs", "MySQL", "MongoDB", "sequelize", "Docker", "AWS SAM", "AWS S3", "AWS Athena", "AWS Cognito", "AWS lambda", "AWS SNS", "AWS SQS", "AWS CloudWatch"],
+      Responsibilities: [
+        "Severity 1 & 2 issue fix (P1 & P2)",
+        "Requirements Analysis",
+        "Coding",
+        "Debugging",
+        "Application Maintenance",
+        "Bug Fixing",
+        "AWS implementation (S3, lambda, SES, SNS, SQS)",
+        "Code/PR Review",
+        "Code deploy on server"
+      ].map(function (text) {
+        return <li>{text}</li>;
+      }),
+      links: [
+        {
+          url: "https://admin.utecbuild.com/auth/login",
+          text: "View Web Application",
+        },
+      ],
+    },
     {
       date: "August 2022 - March 2023",
       cardTitle: "BLAZING CARDS",
