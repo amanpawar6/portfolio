@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.118b49fb.css",
+    "main.js": "/portfolio/static/js/main.99c031d5.js",
+    "static/js/453.27fda5b5.chunk.js": "/portfolio/static/js/453.27fda5b5.chunk.js",
+    "static/media/boxicons.svg": "/portfolio/static/media/boxicons.045b05bf2dc119267a90.svg",
+    "static/media/boxicons.eot": "/portfolio/static/media/boxicons.092b78589f3f53e60030.eot",
+    "static/media/boxicons.woff": "/portfolio/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
+    "static/media/boxicons.ttf": "/portfolio/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
+    "static/media/home.jpeg": "/portfolio/static/media/home.e1c521b6e078b98c3d84.jpeg",
+    "static/media/bootstrap-icons.woff?": "/portfolio/static/media/bootstrap-icons.7d38a25801cfc2e01be2.woff",
+    "static/media/boxicons.woff2": "/portfolio/static/media/boxicons.8d765747a5588f36ff61.woff2",
+    "static/media/about.jpeg": "/portfolio/static/media/about.e5ccce106da9d70d3362.jpeg",
+    "static/media/bootstrap-icons.woff2?": "/portfolio/static/media/bootstrap-icons.01c9cc54aa4917872f00.woff2",
+    "static/media/160_Hackerrank_logo_logos-512.webp": "/portfolio/static/media/160_Hackerrank_logo_logos-512.8978c55d5bbe49850514.webp",
+    "index.html": "/portfolio/index.html",
+    "main.118b49fb.css.map": "/portfolio/static/css/main.118b49fb.css.map",
+    "main.99c031d5.js.map": "/portfolio/static/js/main.99c031d5.js.map",
+    "453.27fda5b5.chunk.js.map": "/portfolio/static/js/453.27fda5b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.118b49fb.css",
+    "static/js/main.99c031d5.js"
+  ]
+}
